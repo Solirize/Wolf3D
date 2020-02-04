@@ -34,10 +34,6 @@ A A A A
 `:` - `U`	-	**use only 58-85 symbols on ascii (: -> U)**.
 `\t`		-	**use tab for split symbols**.
 
-## Authors
-
-**Me**  
-[**Valera**](https://github.com/BeneathTS)
 
 ![Example](https://github.com/EmbodimentEvil/Wolf3D-1/blob/master/images/blue_map.png)
 ![Example](https://github.com/EmbodimentEvil/Wolf3D-1/blob/master/images/red_map.png)
